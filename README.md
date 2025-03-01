@@ -23,7 +23,7 @@
     </a>
     <br>
     <br>
-    Ghost Framework is an Android post-exploitation framework that
+    Ghost Framework is akjkjokkjon Android post-exploitation framework that
     <br>exploits the Android Debug Bridge to remotely access an Android device.
     <br>
     <br>
